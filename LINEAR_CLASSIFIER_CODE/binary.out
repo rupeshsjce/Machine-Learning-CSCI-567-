@@ -1,0 +1,12 @@
+Synthetic data
+perceptron train acc: 0.994286, test acc: 1.000000
+logistic train acc: 0.994286, test acc: 1.000000
+
+Two Moon data
+perceptron train acc: 0.820000, test acc: 0.840000
+logistic train acc: 0.857143, test acc: 0.866667
+
+Binarized MNIST data
+perceptron train acc: 0.873400, test acc: 0.828000
+logistic train acc: 0.871000, test acc: 0.834000
+
